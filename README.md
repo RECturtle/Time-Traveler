@@ -1,5 +1,5 @@
 # Time Traveler
-Check out the demo here: https://6267236a86dcc60653094f19--calm-llama-df488f.netlify.app/
+This site uses the Wayback Machine's API to retrieve a snapshot of a website closest to the date you enter. Check out the demo here: https://6267236a86dcc60653094f19--calm-llama-df488f.netlify.app/
 
 # Getting Started with Create React App
 
