@@ -1,0 +1,41 @@
+.search-form {
+    padding: 10px;
+}
+
+.ui.cards {
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    height: 200px;
+}
+
+.card {
+    text-align: center;
+    vertical-align: middle;
+    align-items: center;
+    flex: 0 0 400px;
+    background-color: rgb(255, 255, 255) !important;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.185) !important;
+}
+
+.content {
+    padding: 30px !important;
+}
+
+.ui.button.no-label {
+    background-color: #E98E94;
+    margin-top: -5px;
+}
+
+.ui.button.no-label:hover {
+    background-color: #E1636C;
+}
+
+.ui.button {
+    margin-top: 10px;
+    background-color: #E98E94;
+}
+
+.ui.button:hover {
+    background-color: #E1636C;
+}
